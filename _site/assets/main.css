@@ -1,7 +1,7 @@
 body {
   font-family: 'PT Sans', serif;
   color: #333;
-  background-color: #FFF; }
+  background-color: #FFFFFF; }
 
 header,
 main {
@@ -16,7 +16,7 @@ a:link,
 a:visited,
 a:hover,
 a:active {
-  color: #DE2052;
+  color: #D60C0C;
   text-decoration: none; }
 
 a:hover {
@@ -27,8 +27,8 @@ a:hover {
   text-align: center; }
 
 .logo {
-  width: 96px;
-  height: 96px;
+  width: 150px;
+  height: 150px;
   display: inline-block;
   background-size: cover;
   border-radius: 19px;
@@ -70,10 +70,10 @@ hr {
   padding: 10px !important; }
 
 #mc_embed_signup .button {
-  background-color: #DE2052 !important; }
+  background-color: #D60C0C !important; }
 
 #mc_embed_signup .button:hover {
-  background-color: #b11a42 !important; }
+  background-color: #a60909 !important; }
 
 /*** footer ***/
 footer {
