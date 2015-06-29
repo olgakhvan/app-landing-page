@@ -5,7 +5,7 @@ baseurl: '/app-landing-page'
 # app configuration
 app:
   # an avatar or logo (optional)
-  logo: "/images/Untitled-1.png"
+  logo: "/images/kitapplogo.png"
   # author will appear under the avatar (optional)
   author: "Kitapp"
   # tagline will appear under the title (optional)
